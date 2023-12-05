@@ -1,0 +1,15 @@
+{
+  "name": "goit-advancedjs-hw-05",
+  "version": "1.0.0",
+  "description": "Завдання\r Потрібно встановити та налаштувати середовище розробки. Усі детальні кроки описані в роздiлах конспекту 4-6.",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --node-resolve --open --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@web/dev-server": "^0.4.1"
+  }
+}
